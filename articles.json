@@ -1,0 +1,38 @@
+[
+  {
+    "tr": "Section Title",
+    "en-001": "Section Title",
+    "articles": [
+      [
+        {
+          "locale": "tr",
+          "title": "Ullamco qui voluptate voluptate reprehenderit enim sint.",
+          "body": "Veniam commodo magna commodo ullamco ex occaecat elit. Ea ea ut ad deserunt occaecat minim amet sit non aliquip. Commodo minim laboris ad incididunt mollit ea et aliquip anim. Excepteur ipsum consectetur nulla fugiat consectetur sunt tempor do irure est quis."
+        },
+        {
+          "locale": "en-001",
+          "title": "Ullamco qui voluptate voluptate reprehenderit enim sint.",
+          "body": "Veniam commodo magna commodo ullamco ex occaecat elit. Ea ea ut ad deserunt occaecat minim amet sit non aliquip. Commodo minim laboris ad incididunt mollit ea et aliquip anim. Excepteur ipsum consectetur nulla fugiat consectetur sunt tempor do irure est quis."
+        }
+      ]
+    ]
+  },
+  {
+    "tr": "Section2 Title",
+    "en-001": "Section2 Title",
+    "articles": [
+      [
+        {
+          "locale": "tr",
+          "title": "Ullamco qui voluptate voluptate reprehenderit enim sint.",
+          "body": "Veniam commodo magna commodo ullamco ex occaecat elit. Ea ea ut ad deserunt occaecat minim amet sit non aliquip. Commodo minim laboris ad incididunt mollit ea et aliquip anim. Excepteur ipsum consectetur nulla fugiat consectetur sunt tempor do irure est quis."
+        },
+        {
+          "locale": "en-001",
+          "title": "Ullamco qui voluptate voluptate reprehenderit enim sint.",
+          "body": "Veniam commodo magna commodo ullamco ex occaecat elit. Ea ea ut ad deserunt occaecat minim amet sit non aliquip. Commodo minim laboris ad incididunt mollit ea et aliquip anim. Excepteur ipsum consectetur nulla fugiat consectetur sunt tempor do irure est quis."
+        }
+      ]
+    ]
+  }
+]
